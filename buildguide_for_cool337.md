@@ -185,14 +185,11 @@ Here is an [article](https://sizu.me/m_ki/posts/01s8uea4u7x8) on how to do it.
 
 ### 6bInstall firmware （pro micro）
 
-There is a hex file [here](https://github.com/telzo2000/cool336ble/tree/main/firmware). Please install it using QMK ToolBox.
+There is info.json, so please use it to create firmware.
 <br>
-
-[ここ](https://github.com/telzo2000/cool336ble/tree/main/firmware)にhexファイルがあります。それを、QMK ToolBoxを使って、インストールしてください。
-
-
-[QMK ToolBox](https://qmk.fm/toolbox)
-
+info.jsonがありますので、それを使って、ファームウェアを作成してください。
+<br>
+<br>
 キーマップ編集サイト
 [Vial](https://get.vial.today/)
 
@@ -207,13 +204,13 @@ The stabilizer will operate smoothly if it is greased.
 スタビライザーはグリスをしておくと、滑らかに稼働します。
 <br>
 <br>
+![](img/img00011.jpg)
 
+### 8 Fix the switch plate with screws
 
-### 8 Fix the switch plate(Acrylic) with screws
-
-Insert the FR-4 switch plate, the M2 spacer (3mm), and the M2 screw (8mm) in that order to secure it.
+Insert the 3D printed switch plate, M2 spacer (6mm), and then secure it with M2 screws (6mm).
 <br>
-FR-4のスイッチプレート、M2スペーサー（6mm）の順でM2ネジ（8mm）の順で差し込んで固定します。
+3Dプリントのスイッチプレート、M2スペーサー（6mm）の順でM2ネジ（6mm）を差し込んで固定します。
 <br><br>
 
 
@@ -224,15 +221,15 @@ Insert the key switch from the switch plate side.
 スイッチプレート側からキースイッチを差し込んでいきます。
 <br>
 <br>
-
+![](img/img00009.jpg)
 
 ### 10 Fix the bottom case with screws
 
-Secure the bottom plate with four M2 screws (6mm).
+Secure the bottom plate with four M2 screws (4mm).
 <br>
-ボトムプレートをM2ネジ（6mm）４本で固定します。
-![](img/img00037.jpg)
-![](img/img00036.jpg)
+ボトムプレートをM2ネジ（4mm）４本で固定します。
+![](img/img00007.jpg)
+![](img/img00006.jpg)
 
 
 ### 11 Complete
