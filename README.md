@@ -18,7 +18,7 @@ https://github.com/telzo2000/cool337/tree/main/firmware
 
 
 ## build guide
-
+未だ執筆途中
 https://github.com/telzo2000/cool337/blob/main/buildguide_for_cool337.md
 
 ### summary
