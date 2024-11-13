@@ -64,7 +64,9 @@ https://github.com/telzo2000/cool337/blob/main/buildguide_for_cool337.md
 |15|チップ積層セラミックコンデンサー |1|100μF6.3V F 3216|[秋月電子](https://akizukidenshi.com/catalog/g/g102151/)|10個入り200円|
 
 ※12は、独自なキーなので、[FKcapsカスタムメイド](https://fkcaps.com/custom/GLPFK1)を参考にして、自分だけのレジェンドを決めた方がよい。
+<br>
 ※13,14,15は[遊舎工房のこれ](https://shop.yushakobo.jp/products/5623)が最適。
+<br>
 
 In addition, you will need a USB cable, etc.
 <br>
