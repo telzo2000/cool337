@@ -244,7 +244,7 @@ Insert the key switch from the switch plate side.
 
 Secure the bottom plate with four M2 screws (4mm).
 <br>
-ボトムプレートをM2ネジ（4mm）４本で固定します。
+ボトムプレートをM2ネジ（6mm）４本で固定します。
 ![](img/img00007.jpg)
 ![](img/img00006.jpg)
 

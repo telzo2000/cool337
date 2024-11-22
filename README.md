@@ -54,7 +54,7 @@ https://github.com/telzo2000/cool337/blob/main/buildguide_for_cool337.md
 |4|Diode<br>ダイオード|37|リードタイプまたはSMD|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
 |5|Switch plate|1|3D Print|||
 |6|Bottom case|1|3D Print||
-|7|Screw<br>ネジ|8|M2 4mm x 4、6mm x 4|DIY shop|10本200円程度|
+|7|Screw<br>ネジ|8|M2 6mm x 8|DIY shop|10本200円程度|
 |8|Spacer<br>スペーサー|4|M2 6mm|DIY shop|10本400円程度|
 |9|Conthrou<br>コンスルー|2|3.5mm|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)|１個400円程度|
 |11|Keyswitch<br>キースイッチ|37|お好みで|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
