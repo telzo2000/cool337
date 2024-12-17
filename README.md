@@ -65,7 +65,7 @@ https://github.com/telzo2000/cool337/blob/main/buildguide_for_cool337.md
 
 ※12は、独自なキーなので、[FKcapsカスタムメイド](https://fkcaps.com/custom/GLPFK1)を参考にして、自分だけのレジェンドを決めた方がよい。
 <br>
-※13,14,15は[遊舎工房のこれ](https://shop.yushakobo.jp/products/5623)が最適。
+※13,14,15は[遊舎工房の「Primer29/61用電池部品セット（コイン電池」](https://shop.yushakobo.jp/products/5623)が最適。
 <br>
 
 In addition, you will need a USB cable, etc.
