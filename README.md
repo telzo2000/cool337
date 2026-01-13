@@ -21,6 +21,11 @@ https://github.com/telzo2000/cool337/tree/main/firmware
 
 https://github.com/telzo2000/cool337/blob/main/buildguide_for_cool337.md
 
+<br>
+五月雨さんによる素敵なビルドログ<br>
+
+https://note.com/sam1dare/n/n313f1a884d30?sub_rt=share_pw
+
 ### summary
 
 1 Diode soldering
