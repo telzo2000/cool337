@@ -66,7 +66,7 @@ https://note.com/sam1dare/n/n313f1a884d30?sub_rt=share_pw
 |12|Keycap<br>キーキャップ|37|1U x 28,1.25U x 6,1.5U x 1,1.75U x 1,6.25u x 1|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
 |13|ボタン電池ホルダー|1|1632|[アリエク](https://ja.aliexpress.com/item/32744211091.html?spm=a2g0o.order_list.order_list_main.10.2aa6585aqrECYV&gatewayAdapt=glo2jpn)<br>|100個で900円ほど|
 |14|水平スライドスイッチ|1||[秋月電子](https://akizukidenshi.com/catalog/g/g115370/)|30円|
-|15|チップ積層セラミックコンデンサー |1|100μF6.3V F 3216|[秋月電子](https://akizukidenshi.com/catalog/g/g102151/)|10個入り200円|
+|15|チップ積層セラミックコンデンサー |1|100μF6.3V F 3216|[秋月電子](https://akizukidenshi.com/catalog/g/g106041/)|10個入り200円|
 
 ※12は、独自なキーなので、[FKcapsカスタムメイド](https://fkcaps.com/custom/GLPFK1)を参考にして、自分だけのレジェンドを決めた方がよい。
 <br>
